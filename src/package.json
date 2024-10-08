@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/lab": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest",
+    "@material-ui/icons": "4.11.3"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v4.x/docs/src/pages/components/autocomplete/ComboBox.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "title": "Material demo"
+}
